@@ -20,7 +20,7 @@
     {
       "id": "paper-gold-gloss",
       "category": "ورق",
-      " baseColor": "المع ذهبي",
+      " baseColor": "لمّيع ذهبي",
       " factorOver10k": 22,
       "factorUnderOrEq10k": 29,
       "requiresColor": true
@@ -28,7 +28,7 @@
     {
       "id": "paper-gold-matte",
       "category": "ورق",
-      " baseColor": "مت ذهبي",
+      " baseColor": "متّ ذهبي",
       " factorOver10k": 22,
       "factorUnderOrEq10k": 29,
       "requiresColor": true
@@ -36,7 +36,7 @@
     {
       "id": "paper-silver-gloss",
       "category": "ورق",
-      " baseColor": "المع فضي",
+      " baseColor": "لمّيع فضي",
       " factorOver10k": 22,
       "factorUnderOrEq10k": 29,
       "requiresColor": true
@@ -44,14 +44,14 @@
     {
       "id": "paper-silver-matte",
       "category": "ورق",
-      " baseColor": "مت فضي",
+      " baseColor": "متّ فضي",
       " factorOver10k": 22,
       "factorUnderOrEq10k": 29,
       "requiresColor": true
     },
     {
       "id": "plastic-white",
-      "category": "بالستيك",
+      "category": "بلاستيك",
       " baseColor": "أبيض",
       " factorOver10k": 22,
       "factorUnderOrEq10k": 29,
@@ -59,7 +59,7 @@
     },
     {
       "id": "plastic-black",
-      "category": "بالستيك",
+      "category": "بلاستيك",
       " baseColor": "أسود",
       " factorOver10k": 22,
       "factorUnderOrEq10k": 29,
@@ -67,32 +67,32 @@
     },
     {
       "id": "plastic-gold-gloss",
-      "category": "بالستيك",
-      " baseColor": "المع ذهبي",
+      "category": "بلاستيك",
+      " baseColor": "لمّيع ذهبي",
       " factorOver10k": 22,
       "factorUnderOrEq10k": 29,
       "requiresColor": true
     },
     {
       "id": "plastic-gold-matte",
-      "category": "بالستيك",
-      " baseColor": "مت ذهبي",
+      "category": "بلاستيك",
+      " baseColor": "متّ ذهبي",
       " factorOver10k": 22,
       "factorUnderOrEq10k": 29,
       "requiresColor": true
     },
     {
       "id": "plastic-silver-gloss",
-      "category": "بالستيك",
-      " baseColor": "المع فضي",
+      "category": "بلاستيك",
+      " baseColor": "لمّيع فضي",
       " factorOver10k": 22,
       "factorUnderOrEq10k": 29,
       "requiresColor": true
     },
     {
       "id": "plastic-silver-matte",
-      "category": "بالستيك",
-      " baseColor": "مت فضي",
+      "category": "بلاستيك",
+      " baseColor": "متّ فضي",
       " factorOver10k": 22,
       "factorUnderOrEq10k": 29,
       "requiresColor": true
