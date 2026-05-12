@@ -1,21 +1,126 @@
 {
   "exchangeRate": 1,
   "materials": [
-    { "id": "paper-white", "category": "ورق", "baseColor": "أبيض", "factorOver10k": 15, "factorUnderOrEq10k": 20, "requiresColor": true },
-    { "id": "paper-black", "category": "ورق", "baseColor": "أسود", "factorOver10k": 20, "factorUnderOrEq10k": 25, "requiresColor": true },
-    { "id": "paper-gold-gloss", "category": "ورق", "baseColor": "ذهبي لامع", "factorOver10k": 20, "factorUnderOrEq10k": 25, "requiresColor": true },
-    { "id": "paper-gold-matte", "category": "ورق", "baseColor": "ذهبي مت", "factorOver10k": 20, "factorUnderOrEq10k": 25, "requiresColor": true },
-    { "id": "paper-silver-gloss", "category": "ورق", "baseColor": "فضي لامع", "factorOver10k": 20, "factorUnderOrEq10k": 25, "requiresColor": true },
-    { "id": "paper-silver-matte", "category": "ورق", "baseColor": "فضي مت", "factorOver10k": 20, "factorUnderOrEq10k": 25, "requiresColor": true },
-    { "id": "plastic-white", "category": "بلاستيك", "baseColor": "أبيض", "factorOver10k": 20, "factorUnderOrEq10k": 25, "requiresColor": true },
-    { "id": "plastic-black", "category": "بلاستيك", "baseColor": "أسود", "factorOver10k": 20, "factorUnderOrEq10k": 25, "requiresColor": true },
-    { "id": "plastic-gold-gloss", "category": "بلاستيك", "baseColor": "ذهبي لامع", "factorOver10k": 20, "factorUnderOrEq10k": 25, "requiresColor": true },
-    { "id": "plastic-gold-matte", "category": "بلاستيك", "baseColor": "ذهبي مت", "factorOver10k": 20, "factorUnderOrEq10k": 25, "requiresColor": true },
-    { "id": "plastic-silver-gloss", "category": "بلاستيك", "baseColor": "فضي لامع", "factorOver10k": 20, "factorUnderOrEq10k": 25, "requiresColor": true },
-    { "id": "plastic-silver-matte", "category": "بلاستيك", "baseColor": "فضي مت", "factorOver10k": 20, "factorUnderOrEq10k": 25, "requiresColor": true },
-    { "id": "transparent", "category": "شفاف", "baseColor": "شفاف", "factorOver10k": 20, "factorUnderOrEq10k": 25, "requiresColor": false },
-    { "id": "laser-gold", "category": "ليزري", "baseColor": "ذهبي", "factorOver10k": 20, "factorUnderOrEq10k": 25, "requiresColor": true },
-    { "id": "laser-silver", "category": "ليزري", "baseColor": "فضي", "factorOver10k": 20, "factorUnderOrEq10k": 25, "requiresColor": true }
+    {
+      "id": "paper-white",
+      "category": "ورق",
+      " baseColor": "أبيض",
+      " factorOver10k": 20,
+      "factorUnderOrEq10k": 25,
+      "requiresColor": true
+    },
+    {
+      "id": "paper-black",
+      "category": "ورق",
+      " baseColor": "أسود",
+      " factorOver10k": 20,
+      "factorUnderOrEq10k": 28,
+      "requiresColor": true
+    },
+    {
+      "id": "paper-gold-gloss",
+      "category": "ورق",
+      " baseColor": "المع ذهبي",
+      " factorOver10k": 22,
+      "factorUnderOrEq10k": 29,
+      "requiresColor": true
+    },
+    {
+      "id": "paper-gold-matte",
+      "category": "ورق",
+      " baseColor": "مت ذهبي",
+      " factorOver10k": 22,
+      "factorUnderOrEq10k": 29,
+      "requiresColor": true
+    },
+    {
+      "id": "paper-silver-gloss",
+      "category": "ورق",
+      " baseColor": "المع فضي",
+      " factorOver10k": 22,
+      "factorUnderOrEq10k": 29,
+      "requiresColor": true
+    },
+    {
+      "id": "paper-silver-matte",
+      "category": "ورق",
+      " baseColor": "مت فضي",
+      " factorOver10k": 22,
+      "factorUnderOrEq10k": 29,
+      "requiresColor": true
+    },
+    {
+      "id": "plastic-white",
+      "category": "بالستيك",
+      " baseColor": "أبيض",
+      " factorOver10k": 22,
+      "factorUnderOrEq10k": 29,
+      "requiresColor": true
+    },
+    {
+      "id": "plastic-black",
+      "category": "بالستيك",
+      " baseColor": "أسود",
+      " factorOver10k": 22,
+      "factorUnderOrEq10k": 29,
+      "requiresColor": true
+    },
+    {
+      "id": "plastic-gold-gloss",
+      "category": "بالستيك",
+      " baseColor": "المع ذهبي",
+      " factorOver10k": 22,
+      "factorUnderOrEq10k": 29,
+      "requiresColor": true
+    },
+    {
+      "id": "plastic-gold-matte",
+      "category": "بالستيك",
+      " baseColor": "مت ذهبي",
+      " factorOver10k": 22,
+      "factorUnderOrEq10k": 29,
+      "requiresColor": true
+    },
+    {
+      "id": "plastic-silver-gloss",
+      "category": "بالستيك",
+      " baseColor": "المع فضي",
+      " factorOver10k": 22,
+      "factorUnderOrEq10k": 29,
+      "requiresColor": true
+    },
+    {
+      "id": "plastic-silver-matte",
+      "category": "بالستيك",
+      " baseColor": "مت فضي",
+      " factorOver10k": 22,
+      "factorUnderOrEq10k": 29,
+      "requiresColor": true
+    },
+    {
+      "id": "transparent",
+      "category": "شفاف",
+      " baseColor": "شفاف",
+      " factorOver10k": 22,
+      "factorUnderOrEq10k": 25,
+      "requiresColor": false
+    },
+    {
+      "id": "laser-gold",
+      "category": "ليزري",
+      " baseColor": "ذهبي",
+      " factorOver10k": 25,
+      "factorUnderOrEq10k": 30,
+      "requiresColor": true
+    },
+    {
+      "id": "laser-silver",
+      "category": "ليزري",
+      " baseColor": "فضي",
+      " factorOver10k": 25,
+      "factorUnderOrEq10k": 30,
+      "requiresColor": true
+    }
   ],
   "extraColorFactor": {
     "twoColors": 3,
